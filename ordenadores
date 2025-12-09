@@ -1,1 +1,38 @@
-Por favor pon las caracteristicas del ejercicio 1. Identificando el equip. 
+C:\Windows\System32>systeminfo
+
+Nombre de host:                            DESKTOP-OJK11QD
+Nombre del sistema operativo:              Microsoft Windows 11 IoT Enterprise
+Versión del sistema operativo:             10.0.22631 N/D Compilación 22631
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              Raúl
+Organización registrada:                   N/D
+Id. del producto:                          00436-30006-87505-AAOEM
+Fecha de instalación original:             24/11/2025, 14:36:46
+Tiempo de arranque del sistema:            05/12/2025, 9:24:17
+Fabricante del sistema:                    Micro-Star International Co., Ltd.
+Modelo el sistema:                         MS-7D23
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2904 Mhz
+Versión del BIOS:                          American Megatrends International, LLC. 1.10, 14/09/2021
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume2
+Configuración regional del sistema:        es;Español (internacional)
+Idioma de entrada:                         es;Español (tradicional)
+Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, París
+Cantidad total de memoria física:          8.017 MB
+Memoria física disponible:                 2.492 MB
+Memoria virtual: tamaño máximo:            12.881 MB
+Memoria virtual: disponible:               6.907 MB
+Memoria virtual: en uso:                   5.974 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-OJK11QD
+Revisión(es):                              4 revisión(es) instaladas.
+                                           [01]: KB5066133
+                                           [02]: KB5027397
+                                           [03]: KB5070312
+                                           [04]: KB5071963
